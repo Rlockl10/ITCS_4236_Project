@@ -64,6 +64,7 @@
     <Compile Include="Assets\MenuScript.cs" />
     <Compile Include="Assets\NPCMove.cs" />
     <Compile Include="Assets\PlayerMove.cs" />
+    <Compile Include="Assets\PlayerTest.cs" />
     <Compile Include="Assets\TacticsCamera.cs" />
     <Compile Include="Assets\TacticsMove.cs" />
     <Compile Include="Assets\Tile.cs" />
